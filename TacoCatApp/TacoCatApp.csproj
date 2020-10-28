@@ -67,14 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="BrandonSolve.html" />
     <Content Include="Code.html" />
     <Content Include="Coding Challenge - TacoCat.png" />
+    <Content Include="dc2.png" />
     <Content Include="favicon.png" />
     <Content Include="Index.html" />
     <Content Include="Solve.html" />
-    <Content Include="ThomasZSolve.html" />
-    <Content Include="WadeSolve.html" />
+    <Content Include="TSolve.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
